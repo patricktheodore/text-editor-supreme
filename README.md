@@ -145,7 +145,9 @@
   </br>
 
   # Screenshots 
-  ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+<img width="1436" alt="Screen Shot 2022-02-07 at 2 17 18 pm" src="https://user-images.githubusercontent.com/81402349/152735252-dac4e0d8-b052-48b3-b503-8bddb4b9f160.png">
+<img width="1439" alt="Screen Shot 2022-02-07 at 2 17 40 pm" src="https://user-images.githubusercontent.com/81402349/152735259-4ebbdaf0-b3bc-43a5-84d7-e8c4055c2d2e.png">
+
 
   
   <p align="right">(<a href="#top">back to top</a>)</p>  
